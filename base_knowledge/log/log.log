@@ -1,0 +1,6 @@
+2022-09-21 17:23:48,124 - root - ERROR - unsupported operand type(s) for +: 'int' and 'str'
+2022-09-21 17:23:48,125 - root - ERROR - Traceback (most recent call last):
+  File "F:/pythonProject/pythonStudy/base_knowledge/log_test.py", line 30, in fun02
+    c = a+ b
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+
